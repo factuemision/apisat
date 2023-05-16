@@ -1,11 +1,11 @@
 ---
 description: >-
-  el api de factuemision te proporciona acceso a todos los catálogos vigentes
-  disponibles tanto para la generación de CFDI como de los complementos
-  disponibles.
+  El api de factuemision de catálogos del SAT te proporciona acceso a todos los
+  catálogos vigentes disponibles tanto para la generación de CFDI como de los
+  complementos disponibles.
 ---
 
-# 📖 Introduccion
+# Introducción
 
 Los catálogos públicos del SAT son engorrosos y su formato requiere mucho trabajo previo para su utilización, con nuestra api pretendemos hacer esa actividad menos complicada, pues te entregamos cada catalogo en formatos ya digeridos para su integración, además de algunos servicios que te permiten hacer algunas validaciones y asegurar que los datos que estas colocando cumplen con las reglas fiscales que se requieren en un CFDI.&#x20;
 

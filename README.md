@@ -3,6 +3,7 @@ description: >-
   Nuestra api permite explorar los catálogos vigentes que el SAT proporciona
   para su última version de CFDI, en esta documentación encontraras guías,
   referencia técnica y ejemplos de integración.
+coverY: 0
 ---
 
 # 💙 Bienvenido
@@ -27,10 +28,18 @@ Te invito a leer la introducción para que tengas conocimiento del contenido que
 [introduccion.md](introduccion.md)
 {% endcontent-ref %}
 
-## Want to deep dive?
+## ¿Quieres consultar nuestros métodos?
 
-Dive a little deeper and start exploring our API reference to get an idea of everything that's possible with the API:
+Toda la documentation a cada uno de los métodos esta disponible, son servicios REST por lo tanto puedes utilizarlos prácticamente desde cualquier plataforma, estamos trabajando para proporcionar más formas de uso y muchos métodos que ayuden a tus integraciones:&#x20;
 
-{% content-ref url="referencia/api-reference/" %}
-[api-reference](referencia/api-reference/)
+{% content-ref url="referencia/referencia-api/" %}
+[referencia-api](referencia/referencia-api/)
+{% endcontent-ref %}
+
+### ¿Quieres ver ejemplos?
+
+Tenemos una extensa colección de ejemplos a cada uno de nuestros métodos y estamos agregando mas para que tus integraciones sean rápidas.
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
