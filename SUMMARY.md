@@ -1,10 +1,10 @@
 # Table of contents
 
-* [Welcome!](README.md)
-* [Quick Start](quick-start.md)
+* [💙 Bienvenido](README.md)
+* [📖 Introduccion](introduccion.md)
 
-## Reference
+## Referencia
 
-* [API Reference](reference/api-reference/README.md)
-  * [Pets](reference/api-reference/pets.md)
-  * [Users](reference/api-reference/users.md)
+* [API Reference](referencia/api-reference/README.md)
+  * [Pets](referencia/api-reference/pets.md)
+  * [Users](referencia/api-reference/users.md)
